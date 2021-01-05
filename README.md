@@ -6,3 +6,5 @@ This is the Dweebs Mini Keyboard By Keyboard Dweebs. Since Keyboard Dweebs is ou
 
 Firmware is not in the main QMK commit, 
 You can find it here https://github.com/doesntfazer/qmk_firmware/tree/dweebs/keyboards/dweebsmini
+
+It is virtually identical to a let's split when it comes to the wiring. So if you find a guide for that, it will be basically the same thing. 
